@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gsl-broker",
+  "private_key_id": "bb6dc0a649deb6b7ff5f817cf3d442b10e5fc111",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDhQF5mTl0lS4Va\nxn33CiWIWCANdHIB5do/KBsZD+JWStz9O+hIlEt0IwbimckVVoP21xCpQPMMaz1j\npg8WxOWcLX2BbvU/QYKJLiPlWkXmHSxNIkWirQ9GKsk927n2Lc6B4AWn6AvEFoNo\nqa6l/pLjWvCDagSHHpMPuEJxXvqiJJnTpmv8Mo+O48XLMSUrUXr/Gx16x7FIFu2m\nALjCxaCBIDYcreHw1RmFteX9DTvifNorPmLEQqod35ARGzl5kST9JQfsJAZ1odpq\neAvd+1DJ7CrxrpFDO0lZPDq5jvGFv3blBm5UtmLlSxMF7toMI2l83DPpatkgIiyy\n3k4l+Se9AgMBAAECggEALRvra7iQzcm4fIvYqRL2nj3ruVYTCM9DrDc3agb00Eww\nwmPvai2MiMcE93dNvkCzr8i1FPglVFzbj+uvBOPMicDQbA3Q/mh7oEZFuQYhjmpU\nN2RAJspajzY9U+5/aM4Wl4rKByygwpWxnlGw4JxBRVeuZ9rg6kBUuiav461eKv8i\nL9Zp3wPhuVNHOBY6aqJNHsR5Q5+w5rbsLSkAUQrooRzjpT3GnamPr1na8i3lOUi9\nheymdmMBG1UPLPu8839g+28Iq52/1dbgrsNru69swbGoFE2HASGK/Xfxpl9OVU2Z\neAJrskYp3Wkx6Q8vxHk+jIDBIWZNSL5/udgF82nAIQKBgQD5zH49QGpvkR5bK7Hm\n9mxby5oyFUjDVRrGQdvB0Pq4//Xls2o35xtQ//a0o1XxiWh20qTXHixUuBNC9M4U\nK9Y7106xxrhI9JRIcMriPoPgHmabrnT+Nhe4mTN/PThP8cqZLncA0MuUMQrU8xQZ\nHx9GIg5dh/1I6RbKtqSOZEfFTQKBgQDm19+oMhjiAi3ql267RNOmVX/2j7xhj2Sv\nnbOg2ylstQywoRmw7zRb3mYJfYL9AVC47FxAbNHZkfSM+IKri7FS/QMNBGFORbGP\n9CeCzM3UxRrZc9wbmLWrRwN0LVoKZf47sEMbxhAoY5Mz74I2NZYO7/drqbd50mF7\nCwt+6Wv0MQKBgQDL1ch1ZujzXTGuJ7ulwhOt3DhZAfE8I2gTu439W/AbohIffAYC\n0/0AXb4MrPPmgr/RphWIzEBUaVieXHEFGLhaYFkAzC14qsuNSSzk7SpjaatFAljJ\nT46PvcO94lDfO2idEsNc0QQuSs6R8kDGNxUn/4ZFYECYjEti4yLoZoACSQKBgQDY\nurDXn0FRYC5v5AEofTQhJIDhoo2BIzmqz+sICPvZfhoN8xLF1a9Y2XL/UgGbPJLn\nK7JpIkHbfXcWq3MzUBIKElW88PHSpQhSWS6HVXWiX/QXWPm8RyG5TxDlEHdK7/tD\nWveGqewdn29jAWlFMAZUu+OWB1+lVmoDNZlza//Y4QKBgQDJl3p9Njes9j4KDNyo\nfOIy1QhC+K4VY8zZGTqXLEw303MfJVREbQ/EPOzjjqPzhi+QFMrqr5jdkB/823wx\ndiYYJqGoSxIcspmhywOwK0DVzydedtL2VMbff18X7t8pJZrF5toP/u68+XGPdymO\nFBr8NRwfOBnKerq6HYZzZntFkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "abhishek-mane-gslab-com@gsl-broker.iam.gserviceaccount.com",
+  "client_id": "109411842822465277266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abhishek-mane-gslab-com%40gsl-broker.iam.gserviceaccount.com"
+}
